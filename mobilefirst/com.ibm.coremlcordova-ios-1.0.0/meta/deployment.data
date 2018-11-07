@@ -1,0 +1,11 @@
+#Deployment data.
+# Thu Jul 26 2018 17:28:26 GMT+0530 (IST)
+app.id=com.ibm.coremlcordova
+app.version=1.0.0
+app.displayname=Core ML Demo
+app.platform=ios
+platform.version=8.0.0.00-20170610-023331
+native.sdk.checksum=1268287798
+app.checksum=2866335349
+app.unpacked.size=13105071
+app.build.time=1532606306326

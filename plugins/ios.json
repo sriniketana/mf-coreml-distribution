@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-mfp": {
+      "PACKAGE_NAME": "com.ibm.coremlcordova"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.ibm.coremlcordova"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.ibm.coremlcordova"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.ibm.coremlcordova"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.ibm.coremlcordova"
+    }
+  }
+}
